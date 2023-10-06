@@ -1,7 +1,3 @@
-# link dos dados de colheita https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-production-and-cli/
-# link dos dados de temperatura: https://www.kaggle.com/datasets/jawadawan/global-warming-trends-1961-2022/data?select=long_format_annual_surface_temp.csv
-
-
 import pandas as pd 
 
 #Extração dos dados para análise
